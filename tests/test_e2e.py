@@ -46,3 +46,7 @@ class TestOne(BaseClass):
         log.info("Text received from application is: "+successmsg)
         assert "Success! Thank you! Your order will be delivered in next few weeks" in successmsg, "Message mismatch"
         self.driver.get_screenshot_as_file("screen.png")
+        print("This is for Git demo practice1")
+        print("This is for Git demo practice1")
+        print("This is for Git demo practice1")
+        print("This is for Git demo practice1")

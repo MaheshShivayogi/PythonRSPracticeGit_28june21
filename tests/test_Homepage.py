@@ -20,6 +20,7 @@ class TestHomePage(BaseClass):
         print(homePage.getAlertSuccessMsg().text)
         msgSuccess = homePage.getAlertSuccessMsg().text
         assert "success" in msgSuccess
+        print("Web Automation")
 
     @pytest.fixture(params=HomePageTestData.getTestData("t3"))
     def getData(self, request):
