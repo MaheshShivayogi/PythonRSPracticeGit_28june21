@@ -1,6 +1,5 @@
 from selenium.webdriver import ActionChains
 from selenium.webdriver.common.by import By
-
 from pageObjects.HomePage import HomePage
 from utilities.BaseClass import BaseClass
 
@@ -47,3 +46,4 @@ class TestOne(BaseClass):
         log.info("Text received from application is: "+successmsg)
         assert "Success! Thank you! Your order will be delivered in next few weeks" in successmsg, "Message mismatch"
         self.driver.get_screenshot_as_file("screen.png")
+        print("This is for Git Practice Demo")

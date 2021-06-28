@@ -1,8 +1,6 @@
 import pytest
-
 from pageObjects.HomePage import HomePage
 from testData.HomePageTestData import HomePageTestData
-
 from utilities.BaseClass import BaseClass
 
 
@@ -19,7 +17,7 @@ class TestHomePage(BaseClass):
         log.info("Gender is: " + getData["gender"])
         self.selectOptionsByVisibleText(homePage.getGenderDDL(),getData["gender"])
         homePage.getSubmitBtn().click()
-        # print(homePage.getAlertSuccessMsg().text)
+        print(homePage.getAlertSuccessMsg().text)
         msgSuccess = homePage.getAlertSuccessMsg().text
         assert "success" in msgSuccess
 
