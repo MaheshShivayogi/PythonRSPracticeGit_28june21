@@ -17,10 +17,13 @@ def setup(request):
     browser_name = request.config.getoption("--browser_name")
     if browser_name == "chrome":
         driver = webdriver.Chrome(executable_path="C:/SeleniumDrivers/chromedriver.exe")
+        print("Selected Chrome Browser")
     elif browser_name == "firefox":
         driver = webdriver.Firefox(executable_path="C:/SeleniumDrivers/geckodriver.exe")
+        print("Selected Firefox Browser")
     elif browser_name == "ie":
         driver = webdriver.Ie(executable_path="C:/SeleniumDrivers/IEDriverServer.exe")
+        print("Selected IE Browser")
     driver.maximize_window()
     driver.implicitly_wait(10000)
     driver.get("https://rahulshettyacademy.com/angularpractice/")
