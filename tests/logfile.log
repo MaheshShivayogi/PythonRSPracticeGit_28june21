@@ -1,0 +1,288 @@
+2021-06-22 12:41:32,297 :INFO :test_formSubmission :First Name is: Mahesh
+2021-06-22 12:41:32,424 :INFO :test_formSubmission :Email is: mahesh@test.com
+2021-06-22 12:41:32,650 :INFO :test_formSubmission :Gender is: Female
+2021-06-22 12:41:37,543 :INFO :test_formSubmission :First Name is: Suraj
+2021-06-22 12:41:37,543 :INFO :test_formSubmission :First Name is: Suraj
+2021-06-22 12:41:37,667 :INFO :test_formSubmission :Email is: suraj@test.com
+2021-06-22 12:41:37,667 :INFO :test_formSubmission :Email is: suraj@test.com
+2021-06-22 12:41:37,881 :INFO :test_formSubmission :Gender is: Male
+2021-06-22 12:41:37,881 :INFO :test_formSubmission :Gender is: Male
+2021-06-22 12:41:42,978 :INFO :test_formSubmission :First Name is: MaheshSur
+2021-06-22 12:41:42,978 :INFO :test_formSubmission :First Name is: MaheshSur
+2021-06-22 12:41:42,978 :INFO :test_formSubmission :First Name is: MaheshSur
+2021-06-22 12:41:43,112 :INFO :test_formSubmission :Email is: maheshsu@test.com
+2021-06-22 12:41:43,112 :INFO :test_formSubmission :Email is: maheshsu@test.com
+2021-06-22 12:41:43,112 :INFO :test_formSubmission :Email is: maheshsu@test.com
+2021-06-22 12:41:43,371 :INFO :test_formSubmission :Gender is: Female
+2021-06-22 12:41:43,371 :INFO :test_formSubmission :Gender is: Female
+2021-06-22 12:41:43,371 :INFO :test_formSubmission :Gender is: Female
+2021-06-22 12:41:48,920 :INFO :test_e2e :Getting all the product titles
+2021-06-22 12:41:49,545 :INFO :test_e2e :Entering the Country name
+2021-06-22 12:41:55,410 :INFO :test_e2e :Text received from application is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-06-22 13:30:02,090 :INFO :test_formSubmission :First Name is: Mahesh
+2021-06-22 13:30:02,149 :INFO :test_formSubmission :Email is: mahesh@test.com
+2021-06-22 13:30:02,246 :INFO :test_formSubmission :Gender is: Female
+2021-06-22 13:30:06,222 :INFO :test_formSubmission :First Name is: Suraj
+2021-06-22 13:30:06,222 :INFO :test_formSubmission :First Name is: Suraj
+2021-06-22 13:30:06,289 :INFO :test_formSubmission :Email is: suraj@test.com
+2021-06-22 13:30:06,289 :INFO :test_formSubmission :Email is: suraj@test.com
+2021-06-22 13:30:06,396 :INFO :test_formSubmission :Gender is: Male
+2021-06-22 13:30:06,396 :INFO :test_formSubmission :Gender is: Male
+2021-06-22 13:30:10,367 :INFO :test_formSubmission :First Name is: MaheshSur
+2021-06-22 13:30:10,367 :INFO :test_formSubmission :First Name is: MaheshSur
+2021-06-22 13:30:10,367 :INFO :test_formSubmission :First Name is: MaheshSur
+2021-06-22 13:30:10,445 :INFO :test_formSubmission :Email is: maheshsu@test.com
+2021-06-22 13:30:10,445 :INFO :test_formSubmission :Email is: maheshsu@test.com
+2021-06-22 13:30:10,445 :INFO :test_formSubmission :Email is: maheshsu@test.com
+2021-06-22 13:30:10,548 :INFO :test_formSubmission :Gender is: Female
+2021-06-22 13:30:10,548 :INFO :test_formSubmission :Gender is: Female
+2021-06-22 13:30:10,548 :INFO :test_formSubmission :Gender is: Female
+2021-06-22 13:30:15,018 :INFO :test_e2e :Getting all the product titles
+2021-06-22 13:30:15,308 :INFO :test_e2e :Entering the Country name
+2021-06-22 13:30:20,756 :INFO :test_e2e :Text received from application is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-06-22 14:04:34,463 :INFO :test_formSubmission :First Name is: Mahesh
+2021-06-22 14:04:34,522 :INFO :test_formSubmission :Email is: mahesh@test.com
+2021-06-22 14:04:34,617 :INFO :test_formSubmission :Gender is: Female
+2021-06-22 14:04:38,651 :INFO :test_formSubmission :First Name is: Suraj
+2021-06-22 14:04:38,651 :INFO :test_formSubmission :First Name is: Suraj
+2021-06-22 14:04:38,720 :INFO :test_formSubmission :Email is: suraj@test.com
+2021-06-22 14:04:38,720 :INFO :test_formSubmission :Email is: suraj@test.com
+2021-06-22 14:04:38,833 :INFO :test_formSubmission :Gender is: Male
+2021-06-22 14:04:38,833 :INFO :test_formSubmission :Gender is: Male
+2021-06-22 14:04:42,921 :INFO :test_formSubmission :First Name is: MaheshSur
+2021-06-22 14:04:42,921 :INFO :test_formSubmission :First Name is: MaheshSur
+2021-06-22 14:04:42,921 :INFO :test_formSubmission :First Name is: MaheshSur
+2021-06-22 14:04:43,020 :INFO :test_formSubmission :Email is: maheshsu@test.com
+2021-06-22 14:04:43,020 :INFO :test_formSubmission :Email is: maheshsu@test.com
+2021-06-22 14:04:43,020 :INFO :test_formSubmission :Email is: maheshsu@test.com
+2021-06-22 14:04:43,156 :INFO :test_formSubmission :Gender is: Female
+2021-06-22 14:04:43,156 :INFO :test_formSubmission :Gender is: Female
+2021-06-22 14:04:43,156 :INFO :test_formSubmission :Gender is: Female
+2021-06-22 14:04:47,993 :INFO :test_e2e :Getting all the product titles
+2021-06-22 14:04:48,372 :INFO :test_e2e :Entering the Country name
+2021-06-22 14:04:53,865 :INFO :test_e2e :Text received from application is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-06-22 16:02:30,621 :INFO :test_formSubmission :First Name is: Mahesh
+2021-06-22 16:02:30,737 :INFO :test_formSubmission :Email is: mahesh@test.com
+2021-06-22 16:02:30,938 :INFO :test_formSubmission :Gender is: Female
+2021-06-22 16:06:18,000 :INFO :test_formSubmission :First Name is: Mahesh
+2021-06-22 16:06:18,130 :INFO :test_formSubmission :Email is: mahesh@test.com
+2021-06-22 16:06:18,339 :INFO :test_formSubmission :Gender is: Female
+2021-06-22 16:06:23,727 :INFO :test_formSubmission :First Name is: Suraj
+2021-06-22 16:06:23,727 :INFO :test_formSubmission :First Name is: Suraj
+2021-06-22 16:06:23,879 :INFO :test_formSubmission :Email is: suraj@test.com
+2021-06-22 16:06:23,879 :INFO :test_formSubmission :Email is: suraj@test.com
+2021-06-22 16:06:24,100 :INFO :test_formSubmission :Gender is: Male
+2021-06-22 16:06:24,100 :INFO :test_formSubmission :Gender is: Male
+2021-06-22 16:06:29,365 :INFO :test_formSubmission :First Name is: MaheshSur
+2021-06-22 16:06:29,365 :INFO :test_formSubmission :First Name is: MaheshSur
+2021-06-22 16:06:29,365 :INFO :test_formSubmission :First Name is: MaheshSur
+2021-06-22 16:06:29,511 :INFO :test_formSubmission :Email is: maheshsu@test.com
+2021-06-22 16:06:29,511 :INFO :test_formSubmission :Email is: maheshsu@test.com
+2021-06-22 16:06:29,511 :INFO :test_formSubmission :Email is: maheshsu@test.com
+2021-06-22 16:06:29,723 :INFO :test_formSubmission :Gender is: Female
+2021-06-22 16:06:29,723 :INFO :test_formSubmission :Gender is: Female
+2021-06-22 16:06:29,723 :INFO :test_formSubmission :Gender is: Female
+2021-06-22 16:06:35,527 :INFO :test_e2e :Getting all the product titles
+2021-06-22 16:06:36,003 :INFO :test_e2e :Entering the Country name
+2021-06-22 16:06:41,923 :INFO :test_e2e :Text received from application is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-06-22 16:16:17,390 :INFO :test_formSubmission :First Name is: Mahesh
+2021-06-22 16:16:17,503 :INFO :test_formSubmission :Email is: mahesh@test.com
+2021-06-22 16:16:17,703 :INFO :test_formSubmission :Gender is: Female
+2021-06-22 16:16:22,920 :INFO :test_formSubmission :First Name is: Suraj
+2021-06-22 16:16:22,920 :INFO :test_formSubmission :First Name is: Suraj
+2021-06-22 16:16:23,051 :INFO :test_formSubmission :Email is: suraj@test.com
+2021-06-22 16:16:23,051 :INFO :test_formSubmission :Email is: suraj@test.com
+2021-06-22 16:16:23,304 :INFO :test_formSubmission :Gender is: Male
+2021-06-22 16:16:23,304 :INFO :test_formSubmission :Gender is: Male
+2021-06-22 16:16:28,419 :INFO :test_formSubmission :First Name is: MaheshSur
+2021-06-22 16:16:28,419 :INFO :test_formSubmission :First Name is: MaheshSur
+2021-06-22 16:16:28,419 :INFO :test_formSubmission :First Name is: MaheshSur
+2021-06-22 16:16:28,565 :INFO :test_formSubmission :Email is: maheshsu@test.com
+2021-06-22 16:16:28,565 :INFO :test_formSubmission :Email is: maheshsu@test.com
+2021-06-22 16:16:28,565 :INFO :test_formSubmission :Email is: maheshsu@test.com
+2021-06-22 16:16:28,786 :INFO :test_formSubmission :Gender is: Female
+2021-06-22 16:16:28,786 :INFO :test_formSubmission :Gender is: Female
+2021-06-22 16:16:28,786 :INFO :test_formSubmission :Gender is: Female
+2021-06-22 16:16:34,494 :INFO :test_e2e :Getting all the product titles
+2021-06-22 16:16:35,000 :INFO :test_e2e :Entering the Country name
+2021-06-22 16:16:40,865 :INFO :test_e2e :Text received from application is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-06-22 16:26:21,951 :INFO :test_formSubmission :First Name is: Mahesh
+2021-06-22 16:26:22,067 :INFO :test_formSubmission :Email is: mahesh@test.com
+2021-06-22 16:26:22,273 :INFO :test_formSubmission :Gender is: Female
+2021-06-22 16:26:27,954 :INFO :test_formSubmission :First Name is: Suraj
+2021-06-22 16:26:27,954 :INFO :test_formSubmission :First Name is: Suraj
+2021-06-22 16:26:28,195 :INFO :test_formSubmission :Email is: suraj@test.com
+2021-06-22 16:26:28,195 :INFO :test_formSubmission :Email is: suraj@test.com
+2021-06-22 16:26:28,408 :INFO :test_formSubmission :Gender is: Male
+2021-06-22 16:26:28,408 :INFO :test_formSubmission :Gender is: Male
+2021-06-22 16:26:33,389 :INFO :test_formSubmission :First Name is: MaheshSur
+2021-06-22 16:26:33,389 :INFO :test_formSubmission :First Name is: MaheshSur
+2021-06-22 16:26:33,389 :INFO :test_formSubmission :First Name is: MaheshSur
+2021-06-22 16:26:33,567 :INFO :test_formSubmission :Email is: maheshsu@test.com
+2021-06-22 16:26:33,567 :INFO :test_formSubmission :Email is: maheshsu@test.com
+2021-06-22 16:26:33,567 :INFO :test_formSubmission :Email is: maheshsu@test.com
+2021-06-22 16:26:33,823 :INFO :test_formSubmission :Gender is: Female
+2021-06-22 16:26:33,823 :INFO :test_formSubmission :Gender is: Female
+2021-06-22 16:26:33,823 :INFO :test_formSubmission :Gender is: Female
+2021-06-22 16:26:39,891 :INFO :test_e2e :Getting all the product titles
+2021-06-22 16:26:40,416 :INFO :test_e2e :Entering the Country name
+2021-06-22 16:26:46,300 :INFO :test_e2e :Text received from application is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-06-22 16:47:41,435 :INFO :test_formSubmission :First Name is: Mahesh
+2021-06-22 16:47:41,566 :INFO :test_formSubmission :Email is: mahesh@test.com
+2021-06-22 16:47:41,812 :INFO :test_formSubmission :Gender is: Female
+2021-06-22 16:47:46,943 :INFO :test_formSubmission :First Name is: Suraj
+2021-06-22 16:47:46,943 :INFO :test_formSubmission :First Name is: Suraj
+2021-06-22 16:47:47,063 :INFO :test_formSubmission :Email is: suraj@test.com
+2021-06-22 16:47:47,063 :INFO :test_formSubmission :Email is: suraj@test.com
+2021-06-22 16:47:47,252 :INFO :test_formSubmission :Gender is: Male
+2021-06-22 16:47:47,252 :INFO :test_formSubmission :Gender is: Male
+2021-06-22 16:47:52,196 :INFO :test_formSubmission :First Name is: MaheshSur
+2021-06-22 16:47:52,196 :INFO :test_formSubmission :First Name is: MaheshSur
+2021-06-22 16:47:52,196 :INFO :test_formSubmission :First Name is: MaheshSur
+2021-06-22 16:47:52,329 :INFO :test_formSubmission :Email is: maheshsu@test.com
+2021-06-22 16:47:52,329 :INFO :test_formSubmission :Email is: maheshsu@test.com
+2021-06-22 16:47:52,329 :INFO :test_formSubmission :Email is: maheshsu@test.com
+2021-06-22 16:47:52,541 :INFO :test_formSubmission :Gender is: Female
+2021-06-22 16:47:52,541 :INFO :test_formSubmission :Gender is: Female
+2021-06-22 16:47:52,541 :INFO :test_formSubmission :Gender is: Female
+2021-06-22 16:47:58,270 :INFO :test_e2e :Getting all the product titles
+2021-06-22 16:47:58,740 :INFO :test_e2e :Entering the Country name
+2021-06-22 16:48:04,625 :INFO :test_e2e :Text received from application is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-06-22 16:56:13,646 :INFO :test_formSubmission :First Name is: Mahesh
+2021-06-22 16:56:13,727 :INFO :test_formSubmission :Email is: mahesh@test.com
+2021-06-22 16:56:14,012 :INFO :test_formSubmission :Gender is: Female
+2021-06-22 16:56:23,115 :INFO :test_formSubmission :First Name is: Suraj
+2021-06-22 16:56:23,115 :INFO :test_formSubmission :First Name is: Suraj
+2021-06-22 16:56:23,186 :INFO :test_formSubmission :Email is: suraj@test.com
+2021-06-22 16:56:23,186 :INFO :test_formSubmission :Email is: suraj@test.com
+2021-06-22 16:56:23,452 :INFO :test_formSubmission :Gender is: Male
+2021-06-22 16:56:23,452 :INFO :test_formSubmission :Gender is: Male
+2021-06-22 16:56:33,428 :INFO :test_formSubmission :First Name is: MaheshSur
+2021-06-22 16:56:33,428 :INFO :test_formSubmission :First Name is: MaheshSur
+2021-06-22 16:56:33,428 :INFO :test_formSubmission :First Name is: MaheshSur
+2021-06-22 16:56:33,515 :INFO :test_formSubmission :Email is: maheshsu@test.com
+2021-06-22 16:56:33,515 :INFO :test_formSubmission :Email is: maheshsu@test.com
+2021-06-22 16:56:33,515 :INFO :test_formSubmission :Email is: maheshsu@test.com
+2021-06-22 16:56:33,780 :INFO :test_formSubmission :Gender is: Female
+2021-06-22 16:56:33,780 :INFO :test_formSubmission :Gender is: Female
+2021-06-22 16:56:33,780 :INFO :test_formSubmission :Gender is: Female
+2021-06-22 16:56:43,712 :INFO :test_e2e :Getting all the product titles
+2021-06-22 16:56:44,685 :INFO :test_e2e :Entering the Country name
+2021-06-22 16:56:50,773 :INFO :test_e2e :Text received from application is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-06-22 17:14:43,215 :INFO :test_formSubmission :First Name is: Mahesh
+2021-06-22 17:14:43,336 :INFO :test_formSubmission :Email is: mahesh@test.com
+2021-06-22 17:14:43,570 :INFO :test_formSubmission :Gender is: Female
+2021-06-22 17:14:49,126 :INFO :test_formSubmission :First Name is: Suraj
+2021-06-22 17:14:49,126 :INFO :test_formSubmission :First Name is: Suraj
+2021-06-22 17:14:49,274 :INFO :test_formSubmission :Email is: suraj@test.com
+2021-06-22 17:14:49,274 :INFO :test_formSubmission :Email is: suraj@test.com
+2021-06-22 17:14:49,484 :INFO :test_formSubmission :Gender is: Male
+2021-06-22 17:14:49,484 :INFO :test_formSubmission :Gender is: Male
+2021-06-22 17:14:54,802 :INFO :test_formSubmission :First Name is: MaheshSur
+2021-06-22 17:14:54,802 :INFO :test_formSubmission :First Name is: MaheshSur
+2021-06-22 17:14:54,802 :INFO :test_formSubmission :First Name is: MaheshSur
+2021-06-22 17:14:54,946 :INFO :test_formSubmission :Email is: maheshsu@test.com
+2021-06-22 17:14:54,946 :INFO :test_formSubmission :Email is: maheshsu@test.com
+2021-06-22 17:14:54,946 :INFO :test_formSubmission :Email is: maheshsu@test.com
+2021-06-22 17:14:55,145 :INFO :test_formSubmission :Gender is: Female
+2021-06-22 17:14:55,145 :INFO :test_formSubmission :Gender is: Female
+2021-06-22 17:14:55,145 :INFO :test_formSubmission :Gender is: Female
+2021-06-22 17:15:01,017 :INFO :test_e2e :Getting all the product titles
+2021-06-22 17:15:01,524 :INFO :test_e2e :Entering the Country name
+2021-06-22 17:15:07,397 :INFO :test_e2e :Text received from application is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-06-22 17:16:16,705 :INFO :test_formSubmission :First Name is: Mahesh
+2021-06-22 17:16:16,786 :INFO :test_formSubmission :Email is: mahesh@test.com
+2021-06-22 17:16:17,079 :INFO :test_formSubmission :Gender is: Female
+2021-06-22 17:16:29,733 :INFO :test_formSubmission :First Name is: Suraj
+2021-06-22 17:16:29,733 :INFO :test_formSubmission :First Name is: Suraj
+2021-06-22 17:16:29,797 :INFO :test_formSubmission :Email is: suraj@test.com
+2021-06-22 17:16:29,797 :INFO :test_formSubmission :Email is: suraj@test.com
+2021-06-22 17:16:30,084 :INFO :test_formSubmission :Gender is: Male
+2021-06-22 17:16:30,084 :INFO :test_formSubmission :Gender is: Male
+2021-06-22 17:16:39,373 :INFO :test_formSubmission :First Name is: MaheshSur
+2021-06-22 17:16:39,373 :INFO :test_formSubmission :First Name is: MaheshSur
+2021-06-22 17:16:39,373 :INFO :test_formSubmission :First Name is: MaheshSur
+2021-06-22 17:16:39,486 :INFO :test_formSubmission :Email is: maheshsu@test.com
+2021-06-22 17:16:39,486 :INFO :test_formSubmission :Email is: maheshsu@test.com
+2021-06-22 17:16:39,486 :INFO :test_formSubmission :Email is: maheshsu@test.com
+2021-06-22 17:16:39,794 :INFO :test_formSubmission :Gender is: Female
+2021-06-22 17:16:39,794 :INFO :test_formSubmission :Gender is: Female
+2021-06-22 17:16:39,794 :INFO :test_formSubmission :Gender is: Female
+2021-06-22 17:16:49,927 :INFO :test_e2e :Getting all the product titles
+2021-06-22 17:16:51,011 :INFO :test_e2e :Entering the Country name
+2021-06-22 17:16:57,108 :INFO :test_e2e :Text received from application is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-06-22 17:17:41,100 :INFO :test_formSubmission :First Name is: Mahesh
+2021-06-22 17:17:41,220 :INFO :test_formSubmission :Email is: mahesh@test.com
+2021-06-22 17:17:41,444 :INFO :test_formSubmission :Gender is: Female
+2021-06-22 17:17:46,518 :INFO :test_formSubmission :First Name is: Suraj
+2021-06-22 17:17:46,518 :INFO :test_formSubmission :First Name is: Suraj
+2021-06-22 17:17:46,651 :INFO :test_formSubmission :Email is: suraj@test.com
+2021-06-22 17:17:46,651 :INFO :test_formSubmission :Email is: suraj@test.com
+2021-06-22 17:17:46,865 :INFO :test_formSubmission :Gender is: Male
+2021-06-22 17:17:46,865 :INFO :test_formSubmission :Gender is: Male
+2021-06-22 17:17:51,995 :INFO :test_formSubmission :First Name is: MaheshSur
+2021-06-22 17:17:51,995 :INFO :test_formSubmission :First Name is: MaheshSur
+2021-06-22 17:17:51,995 :INFO :test_formSubmission :First Name is: MaheshSur
+2021-06-22 17:17:52,136 :INFO :test_formSubmission :Email is: maheshsu@test.com
+2021-06-22 17:17:52,136 :INFO :test_formSubmission :Email is: maheshsu@test.com
+2021-06-22 17:17:52,136 :INFO :test_formSubmission :Email is: maheshsu@test.com
+2021-06-22 17:17:52,331 :INFO :test_formSubmission :Gender is: Female
+2021-06-22 17:17:52,331 :INFO :test_formSubmission :Gender is: Female
+2021-06-22 17:17:52,331 :INFO :test_formSubmission :Gender is: Female
+2021-06-22 17:17:58,046 :INFO :test_e2e :Getting all the product titles
+2021-06-22 17:17:58,544 :INFO :test_e2e :Entering the Country name
+2021-06-22 17:18:04,425 :INFO :test_e2e :Text received from application is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-06-22 17:18:38,324 :INFO :test_formSubmission :First Name is: Mahesh
+2021-06-22 17:18:38,435 :INFO :test_formSubmission :Email is: mahesh@test.com
+2021-06-22 17:18:38,718 :INFO :test_formSubmission :Gender is: Female
+2021-06-22 17:18:43,835 :INFO :test_formSubmission :First Name is: Suraj
+2021-06-22 17:18:43,835 :INFO :test_formSubmission :First Name is: Suraj
+2021-06-22 17:18:44,002 :INFO :test_formSubmission :Email is: suraj@test.com
+2021-06-22 17:18:44,002 :INFO :test_formSubmission :Email is: suraj@test.com
+2021-06-22 17:18:44,206 :INFO :test_formSubmission :Gender is: Male
+2021-06-22 17:18:44,206 :INFO :test_formSubmission :Gender is: Male
+2021-06-22 17:18:49,548 :INFO :test_formSubmission :First Name is: MaheshSur
+2021-06-22 17:18:49,548 :INFO :test_formSubmission :First Name is: MaheshSur
+2021-06-22 17:18:49,548 :INFO :test_formSubmission :First Name is: MaheshSur
+2021-06-22 17:18:49,685 :INFO :test_formSubmission :Email is: maheshsu@test.com
+2021-06-22 17:18:49,685 :INFO :test_formSubmission :Email is: maheshsu@test.com
+2021-06-22 17:18:49,685 :INFO :test_formSubmission :Email is: maheshsu@test.com
+2021-06-22 17:18:49,883 :INFO :test_formSubmission :Gender is: Female
+2021-06-22 17:18:49,883 :INFO :test_formSubmission :Gender is: Female
+2021-06-22 17:18:49,883 :INFO :test_formSubmission :Gender is: Female
+2021-06-22 17:18:55,593 :INFO :test_e2e :Getting all the product titles
+2021-06-22 17:18:56,123 :INFO :test_e2e :Entering the Country name
+2021-06-22 17:19:02,012 :INFO :test_e2e :Text received from application is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-06-22 18:38:37,166 :INFO :test_formSubmission :First Name is: Mahesh
+2021-06-22 18:38:37,293 :INFO :test_formSubmission :Email is: mahesh@test.com
+2021-06-22 18:38:37,513 :INFO :test_formSubmission :Gender is: Female
+2021-06-22 18:38:42,771 :INFO :test_formSubmission :First Name is: Suraj
+2021-06-22 18:38:42,771 :INFO :test_formSubmission :First Name is: Suraj
+2021-06-22 18:38:42,905 :INFO :test_formSubmission :Email is: suraj@test.com
+2021-06-22 18:38:42,905 :INFO :test_formSubmission :Email is: suraj@test.com
+2021-06-22 18:38:43,096 :INFO :test_formSubmission :Gender is: Male
+2021-06-22 18:38:43,096 :INFO :test_formSubmission :Gender is: Male
+2021-06-22 18:38:48,181 :INFO :test_formSubmission :First Name is: MaheshSur
+2021-06-22 18:38:48,181 :INFO :test_formSubmission :First Name is: MaheshSur
+2021-06-22 18:38:48,181 :INFO :test_formSubmission :First Name is: MaheshSur
+2021-06-22 18:38:48,328 :INFO :test_formSubmission :Email is: maheshsu@test.com
+2021-06-22 18:38:48,328 :INFO :test_formSubmission :Email is: maheshsu@test.com
+2021-06-22 18:38:48,328 :INFO :test_formSubmission :Email is: maheshsu@test.com
+2021-06-22 18:38:48,516 :INFO :test_formSubmission :Gender is: Female
+2021-06-22 18:38:48,516 :INFO :test_formSubmission :Gender is: Female
+2021-06-22 18:38:48,516 :INFO :test_formSubmission :Gender is: Female
+2021-06-23 12:53:18,315 :INFO :test_formSubmission :First Name is: Suraj
+2021-06-23 12:53:18,372 :INFO :test_formSubmission :Email is: suraj@test.com
+2021-06-23 12:53:18,474 :INFO :test_formSubmission :Gender is: Male
